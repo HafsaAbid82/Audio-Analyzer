@@ -4,10 +4,8 @@ pydantic
 python-multipart
 aiofiles
 starlette
-numpy
 scipy
 soundfile
 librosa
-whisperx
 pandas
 noisereduce
